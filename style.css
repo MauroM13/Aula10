@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body {
+    background-color: #0b2f5f;
+    font-family: 'Roboto', sans-serif; 
+    color:crimson;
+    background-image: url("https://i.ytimg.com/vi/k41_ym1mQuw/maxresdefault.jpg");
+    background-size: 1200px, 1200px; 
+    text-align: center;
+    padding-top: 30px;
+	padding-bottom: 30px;;
+
+}
+
+button{
+
+    background-color: coral;
+    border-radius: 80px 80px 80px 80px;
+
+}
+
+
+
+
